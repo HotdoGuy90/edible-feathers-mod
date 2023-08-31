@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"HotdoGuy90"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "Edible Feathers",
+		"description": "",
+		"min_engine_version": [
+			1,
+			20,
+			0
+		],
+		"uuid": "3af1787d-a661-404a-b582-4d46d35db3f4",
+		"version": [
+			1,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "39f6ef2f-6396-4aa7-bdc6-2b65fe906726",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "107d83ca-685a-43d7-9a32-92b5758c60f8",
+			"version": [
+				1,
+				0,
+				1
+			]
+		}
+	]
+}
