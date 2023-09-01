@@ -4,5 +4,6 @@ This is a mod in Bedrock used to make feathers able to be eaten! Go to the page 
 Make sure to activate Holiday Creator Features and Upcoming Creator Features while setting it up.
 ## Obtaining The Item
 You can get it in the creative menu in the nature section, using `/give @s ccjhdg:edible_feather` or crafting it below:
-<img alt="Edible Feathers Crafting Recipe" href="https://cdn.jsdelivr.net/gh/HotdoGuy90/edible-feathers-mod@main/craftingrecipe.png">
+![craftingrecipe](https://github.com/HotdoGuy90/edible-feathers-mod/assets/143679952/52a41ffa-7f8b-46c7-8b22-6be54275848e)
+
 NOTICE: The output is the edible feather if not clear enough
